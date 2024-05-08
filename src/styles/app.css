@@ -1,0 +1,15 @@
+@import "./govuk-frontend-5.3.1.min.css";
+
+.text-center {
+  text-align: center;
+}
+
+.govuk-list .govuk-body {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.govuk-list .govuk-body strong {
+  width: 10rem;
+}
